@@ -9,8 +9,8 @@ const Index: NextPage = () => {
       </Head>
       <h1>Hi! 👋</h1>
       <p>
-        This website is being rebuild. Didn't look at it for too many years, and
-        now i decided that it was time.
+        This website is being rebuild. Didn&apos;t look at it for too many
+        years, and now i decided that it was time.
       </p>
     </>
   );
