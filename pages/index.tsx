@@ -1,6 +1,5 @@
 import { NextPage } from "next";
 import Head from "next/head";
-import LandingPageTemplate from "../templates/LandingPage/LandingPageTemplate";
 
 const Index: NextPage = () => {
   return (
@@ -8,7 +7,11 @@ const Index: NextPage = () => {
       <Head>
         <title>akj.io</title>
       </Head>
-      <LandingPageTemplate />
+      <h1>Hi! 👋</h1>
+      <p>
+        This website is being rebuild. Didn't look at it for too many years, and
+        now i decided that it was time.
+      </p>
     </>
   );
 };
